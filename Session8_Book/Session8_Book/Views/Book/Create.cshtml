@@ -8,6 +8,28 @@
 
 <h4>BookModel</h4>
 <hr />
+<script type="text/javascript">
+    function validateFrom() {
+        var isValidFrom = true;
+        var nameValue = document.getElementById("Name").value;
+        var emailValue = document.getElementById("Emailid").value;
+
+        //Validate the name field
+        if (nameValue == null || nameValue == "") {
+            document.getElementById("validationName")
+                .textContent = "Custome Name is required.";
+            isValidFrom = false;
+        }
+        if (emailValue == null || emailValue == "") {
+            document.getElementById("validationName")
+                .textContent = "Custome Name is required.";
+            isValidFrom = false;
+        }
+
+        return isValidFrom;
+    }
+</script>
+
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
