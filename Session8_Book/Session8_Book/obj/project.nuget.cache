@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LnnCd6BppIc1eidwPZ+Nv6YLMhLR90DX8x2OWnYxLlxP1izP6F4ULdZlj5lKBafWTM65ySr9azhcMtlmVGR2sA==",
+  "dgSpecHash": "3mROtu01W0T+QKI0O/lI9RCp+n/WEyuF7aTvkThZbgVg5w9pagjW15o/tnZVbXWs8L863YDin1TRJyfN6gI+zw==",
   "success": true,
-  "projectFilePath": "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

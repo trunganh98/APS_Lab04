@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\Session8_Book.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\Session8_Book.csproj": {}
   },
   "projects": {
-    "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\Session8_Book.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\Session8_Book.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
         "projectName": "Session8_Book",
-        "projectPath": "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\Session8_Book.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SEM3\\W\\Session8_Book\\Session8_Book\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\APS_Lab04\\Session8_Book\\Session8_Book\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
